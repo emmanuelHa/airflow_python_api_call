@@ -31,8 +31,7 @@ python3 interest_rates_etl.py
 
 
 
-# INSTALLATION TIME
-# on EC2 (ubuntu AMI):
+# OTHERWISE INSTALLATION TIME on EC2 (ubuntu AMI):
 
 **You need Python 3.10 not Pyhton 3.12 to install Airflow**
 ```bash
