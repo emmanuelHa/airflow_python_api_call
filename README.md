@@ -90,6 +90,6 @@ Access airflow public DNS address with http
 Then import your DAG (bond-api-dag.py) from Airflow UI.  
 => This should create a DAG named "bonds_api_dag"  
 Launch it manually  
-=> This should create the graph into the S3 bucket name you 
+=> This should create the graph into the S3 bucket name you provided
 
 
